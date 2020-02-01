@@ -43,7 +43,11 @@ In this case, depending on the
 
 - Checking your credit score on sites like CreditKarma DOES NOT HURT YOUR CREDIT SCORE. The only time checking your score hurts your score is when the credit card companies run a "hard check" of your score. Credit card companies run a hard check when you apply for a credit card or a loan. They make a formal request to one of the credit bureaus to see your credit report. The reason that a hard check hurts your score is because ... 
 
-{TODO - i think because they think you're applying because you need more credit ebcause you're using too much}
+{TODO
+- TODO: i think because they think you're applying because you need more credit ebcause you're using too much
+- TODO: also, the amount of time you've had your credit cards is averaged across all of your cards, so when you open a new one, the average time you've had the cards goes down
+
+}
 
 - Make sure you think twice about the annual fee that you're paying. The cost of the fee may outweigh the benefits of the 
 
@@ -51,11 +55,14 @@ In this case, depending on the
 
 ## What hurts/helps credit score?
 - Hurts
-    - applying
-    - getting rejected
+    - Applying to get a credit card
+        - If you get approved, you use the card, the hit to your credit score will eventually return to what it was/higher because you will be using a lower average percen
+    - Getting rejected when you apply
+    - Missing a payment
+    - Using too high a percentage of your credit limit
+    - Closing an account (or not using an account for so long that the company closes it for you)
 
 - Helps
-
-
-## Checklist For Applying to Better Cards
+    - Paying off your balances on time (again, try to pay off the entire balance so you don't get screwed by APR)
+    - That's pretty much it lol
 
