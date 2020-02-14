@@ -74,7 +74,10 @@ If it's your first credit card, then they might ask to confirm your entire socia
 - Getting rejected when you apply
 - Missing a payment (you don't make the minimum payment required)
 - Using too high a percentage of your credit limit
+- Not using enough of your credit limit
 - Closing an account (or not using an account for so long that the company closes it for you)
+    - This hurts you because it lowers your utilization rate
+- Not having enough credit accounts (this can be can be a credit card, loan, mortgage, etc.)
 
 Credit: can't stand it, but can't live without it :) 
 
