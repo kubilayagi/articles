@@ -4,7 +4,7 @@ This is more of a checklist and plan type of document. Take it as a point of ref
 
 ### Credit Cards
 #### What I have now:
-- [ ] Charles Schwab Investor Credit Card
+- [x] Charles Schwab Investor Credit Card
     - American Express
     - 1.5% cash back on everything, automatically deposited back into the account I opened it with
     - No annual fee
