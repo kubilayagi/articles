@@ -78,6 +78,8 @@ If it's your first credit card, then they might ask to confirm your entire socia
 - Closing an account (or not using an account for so long that the company closes it for you)
     - This hurts you because it lowers your utilization rate
 - Not having enough credit accounts (this can be can be a credit card, loan, mortgage, etc.)
+- Having an increase in your balance happen quickly instead of over time (even if the resulting balance is less than 30%)
+    - I was using 3% of my credit balance, paid my rent with my credit card to meet the minimum spending to get the welcome bonus. But because the balance increased quickly, and my new credit usage was 7%, I lost 2 points on my credit score
 
 Credit: can't stand it, but can't live without it :) 
 
