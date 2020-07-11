@@ -23,6 +23,7 @@ This is more of a checklist and plan type of document. Take it as a point of ref
     - Stipulations:
         - you can only get cash back dollars in increments of $25. Assuming you are maximizing the benefits of this card and getting 3%, you need to spend $833.33 before you can cash out on your rewards
         - wells fargo has all kinds of shady things going on in the background. TODO: I am going to check whether I can get the card without having to open up any extra wells fargo accounts. wells fargo has a nasty habit of charging you with fees when you don't have funds in your accounts, so if this is the case, I am looking at the CapitalOne SavorOne card for dining, and i'll have to find a different one for gas and travel
+        - Seems like you can have the credit card without a wells fargo account, but in order to claim the reward points as cash, you need to ask for a paper check, they won't send it to you electronically if you don't have a wells fargo account
 
 - [ ] Citi Bank Double Cash Credit Card
     - Mastercard
