@@ -64,6 +64,10 @@ This is more of a checklist and plan type of document. Take it as a point of ref
     - 2% cash back on everything when you use apple pay
     - Reasoning: I plan on buying apple products for the foreseeable future, so I might as well get more rewards for spending money on those products
 
+- [ ] Amazon Prime Visa Credit Card
+    - 5% back on Amazon and Whole Foods purchases (3% if you don't have Amazon prime)
+    - TODO: other stuff
+
 - [ ] Uber Credit Card
     - Unfortunately cash back comes as uber cash, so it can only be used with uber products
     - But there's no annual fee so who cares :)
