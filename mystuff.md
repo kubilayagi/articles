@@ -9,10 +9,13 @@ This is more of a checklist and plan type of document. Take it as a point of ref
     - 1.5% cash back on everything, automatically deposited back into the account I opened it with
     - No annual fee
     - $100 bonus after spending $1000 in first 3 months
+    - My stats when I applied:
+        - Only one other credit card (aged 4 years) - this was a card as an authorized user
+        - A credit score of around 765
+        - No other hard inquiries or derogatory marks
+        - An existing, funded brokerage account with Schwab
 
-
-#### Cards that I want to have (short term, within ~2-3 years):
-- [ ] Wells Fargo Propel Credit Card
+- [x] Wells Fargo Propel Credit Card
     - American Express
     - 20000 points ($200) when you spend $1000 in first 3 months
     - 3x points on gas, transportation, flights, hotels, dining
@@ -24,7 +27,14 @@ This is more of a checklist and plan type of document. Take it as a point of ref
         - you can only get cash back dollars in increments of $25. Assuming you are maximizing the benefits of this card and getting 3%, you need to spend $833.33 before you can cash out on your rewards
         - wells fargo has all kinds of shady things going on in the background. TODO: I am going to check whether I can get the card without having to open up any extra wells fargo accounts. wells fargo has a nasty habit of charging you with fees when you don't have funds in your accounts, so if this is the case, I am looking at the CapitalOne SavorOne card for dining, and i'll have to find a different one for gas and travel
         - Seems like you can have the credit card without a wells fargo account, but in order to claim the reward points as cash, you need to ask for a paper check, they won't send it to you electronically if you don't have a wells fargo account
+    - My stats when I applied:
+        - Around 750 credit score
+        - No existing account with Wells Fargo
+        - 2 open credit card accounts (aged avg 2.5 years)
+        - Credit score of around 750
+    - I ended up getting a fairly low credit limit. I think this may have been due to the fact that I don't have any open accounts with Wells Fargo, or that my income was too low. These are among other possible reasons that have to do with my credit report, such as the fact that I only have two accounts open that have been open for a relatively short time.
 
+#### Cards that I want to have (short term, within ~2-3 years):
 - [ ] Citi Bank Double Cash Credit Card
     - Mastercard
     - 2% on every purchase (for us since we pay off all of our credit card bills and don't carry a balance :) ). The official terms say: get 1% when you buy, another 1% when you pay your balance (on everything)
