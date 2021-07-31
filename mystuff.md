@@ -32,6 +32,19 @@ This is more of a checklist and plan type of document. Take it as a point of ref
         - 2 open credit card accounts (aged avg 2.5 years)
         - Credit score of around 750
     - I ended up getting a fairly low credit limit. I think this may have been due to the fact that I don't have any open accounts with Wells Fargo, or that my income was too low. These are among other possible reasons that have to do with my credit report, such as the fact that I only have two accounts open that have been open for a relatively short time.
+    - I asked for a credit line increase after starting a full time job where my salary is 3x what it was when I first applied. They said they can only raise my limit by 30%, but considering that the starting limit was low, I wasn't super happy
+
+- [x] Chase Freedom Flex Credit Card
+    - MasterCard Elite
+    - 5% cash back on rotating categories
+    - 3% cash back on dining
+    - 1% cash back otherwise
+    - No annual fee
+    - Intro bonus: $200 after $500 in spend
+    - Reasoning: If I can get 5% some quarters on stuff that I normally get 2-3% on regularly, I'm going to take that opportunity
+    - Recently increased their intro bonus from $150 to $200 after spending $500 in the first 3 months. This is a fairly easy number to hit just from buying groceries and eating out.
+    - An issue with this card is that Chase doesn't release a yearly calendar of the scheduled categories. They wait until a few weeks before the new quarter begins to tell us what the new category will be. Might be annoying trying to figure out when to schedule a purchase of something if you don't know what the new category will be.
+    - I am a bit hesitant to pick this card over something like the Discover It Cash Back card which has the same reward system though. You need a much better credit score and history to get Chase cards than Discover cards. As a result, even if I were to be approved for this card, the credit limit might be much lower than if I was approved for the Discover card instead.
 
 #### Cards that I want to have (short term, within ~2-3 years):
 - [ ] Citi Bank Double Cash Credit Card
@@ -41,26 +54,6 @@ This is more of a checklist and plan type of document. Take it as a point of ref
     - Reasoning: 2% is better than 1.5%
     - No meaningful intro offer
         - I think they offer 18 months of 0% APR on balance transfers, but I don't plan on doing balance transfers since all of my cards will remain open for the forseeable future and I pay off this balance every month anyways
-
-- [ ] Chase Freedom Credit Card
-    - Visa
-    - 5% cash back on rotating categories
-    - 1% cash back otherwise
-    - No annual fee
-    - Reasoning: If I can get 5% some quarters on stuff that I normally get 2-3% on regularly, I'm going to take that opportunity
-    - Recently increased their intro bonus from $150 to $200 after spending $500 in the first 3 months. This is a fairly easy number to hit just from buying groceries and eating out.
-    - An issue with this card is that Chase doesn't release a yearly calendar of the scheduled categories. They wait until a few weeks before the new quarter begins to tell us what the new category will be. Might be annoying trying to figure out when to schedule a purchase of something if you don't know what the new category will be.
-    - I am a bit hesitant to pick this card over something like the Discover It Cash Back card which has the same reward system though. You need a much better credit score and history to get Chase cards than Discover cards. As a result, even if I were to be approved for this card, the credit limit might be much lower than if I was approved for the Discover card instead.
-
-- [ ] Discover It Cash Back Cards
-    - Discover Card
-    - 5% cash back on rotating categories (but the calendar is released for the whole year)
-    - 1% cash back everywhere else
-    - No annual fee
-    - Same reasoning as the Chase Freedom card
-    - This card is less widely accepted than the Chase Freedom, which is a Visa card. Discover issues their own cards.
-        - Smaller businesses may nt accept Discover for similar reasons why American Express cards are not accepted everywhere
-    - This card does have a lower threshold for credit approvals, so my credit limit on this card would likely be higher initially than with the Chase Freedom card.
 
 
 - [ ] Blue Cash Everyday Card
@@ -82,11 +75,6 @@ This is more of a checklist and plan type of document. Take it as a point of ref
 - [ ] Amazon Prime Visa Credit Card
     - 5% back on Amazon and Whole Foods purchases (3% if you don't have Amazon prime)
     - TODO: other stuff
-
-- [ ] Uber Credit Card
-    - Unfortunately cash back comes as uber cash, so it can only be used with uber products
-    - But there's no annual fee so who cares :)
-    - Reasoning: this one is not essential, but if I'm going to take Uber anyways, I'd rather get 5% back every time that I ride. This also gives 5% cash back on Uber eats, which is what I would switch to instead of DoorDash when I get this card.
 
 #### Cards that might actually make sense to pay annual fee
 - [ ] Blue Cash Preferred Card
